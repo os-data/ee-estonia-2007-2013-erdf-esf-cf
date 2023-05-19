@@ -335,7 +335,7 @@
       "hash": "d924a5b47fe6831500c5a30aff6c8408",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/ee-estonia-2007-2013-erdf-esf-cf/concat.csv",
       "schema": {
         "fields": [
           {
