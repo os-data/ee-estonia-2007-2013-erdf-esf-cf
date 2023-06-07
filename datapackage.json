@@ -13,6 +13,11 @@
     "nuts_code": "EE",
     "region": "EESTI"
   },
+  "countryCode": "EE",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2013-12-31"
+  },
   "hash": "73fcc9c888a4dd56e9a5108db0be8d77",
   "language": "ee",
   "model": {
